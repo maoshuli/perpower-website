@@ -12,6 +12,7 @@
       <router-link to="/contact">Contact</router-link> |
       <router-link to="/services">Service</router-link> |
       <router-link to="/services/services_detail">Service_detail</router-link>
+      <a href="###">test</a>
     </div>
     
     <router-view/>
